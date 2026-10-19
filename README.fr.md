@@ -2,7 +2,7 @@
 
 **Logiciel configurable de planning et de gestion pour les bases de jet-ski et les activités nautiques encadrées.**
 
-[English presentation](README.md) · [Site du projet](https://waveplanner.app) · [Vidéo de présentation — 54 secondes](docs/media/waveplanner-demo.mp4)
+[English presentation](README.md) · [Site du projet](https://waveplanner.app) · [Vidéo de présentation — 54 secondes](#présentation-vidéo)
 
 WavePlanner réunit le planning, les réservations, les demandes en ligne, les ressources, les moniteurs, la caisse, les statistiques et le suivi estimé du carburant.
 
@@ -14,9 +14,9 @@ Ce dépôt contient la présentation publique et les médias de démonstration d
 
 ## Présentation vidéo
 
-[![WavePlanner — présentation par Carla Tonnerre](docs/media/waveplanner-preview.jpg)](docs/media/waveplanner-demo.mp4)
+https://github.com/user-attachments/assets/61be4a07-5cfb-4be6-9fcf-1eb72982d251
 
-[Voir ou télécharger la vidéo MP4 — 54 secondes, environ 8 Mo](docs/media/waveplanner-demo.mp4)
+[Télécharger la vidéo MP4 originale — 54 secondes, environ 8 Mo](https://github.com/cato104/WavePlanner-showcase/raw/refs/heads/main/docs/media/waveplanner-demo.mp4)
 
 La vidéo montre l'application avec des données de démonstration, ainsi qu'une capture en lecture seule de la recherche de créneau sur un compte connecté. Les montants affichés sont illustratifs.
 

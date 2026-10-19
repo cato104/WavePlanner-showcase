@@ -2,7 +2,7 @@
 
 **Configurable planning and operations software for jet-ski bases and guided watersports activities.**
 
-[Présentation française](README.fr.md) · [Product website](https://waveplanner.app) · [54-second walkthrough](docs/media/waveplanner-demo.mp4)
+[Présentation française](README.fr.md) · [Product website](https://waveplanner.app) · [54-second walkthrough](#video-walkthrough)
 
 WavePlanner connects the planning board, reservations, online requests, resources, instructor groups, daily takings, statistics and estimated fuel levels.
 
@@ -14,9 +14,9 @@ This repository contains the public project presentation and demonstration media
 
 ## Video walkthrough
 
-[![WavePlanner — a personal project by Carla Tonnerre](docs/media/waveplanner-preview.jpg)](docs/media/waveplanner-demo.mp4)
+https://github.com/user-attachments/assets/61be4a07-5cfb-4be6-9fcf-1eb72982d251
 
-[Play or download the MP4 — 54 seconds, about 8 MB](docs/media/waveplanner-demo.mp4)
+[Download the original MP4 — 54 seconds, about 8 MB](https://github.com/cato104/WavePlanner-showcase/raw/refs/heads/main/docs/media/waveplanner-demo.mp4)
 
 The video uses application captures and labelled demonstration data, including a read-only slot-finder capture in a signed-in account. All figures shown are illustrative.
 
